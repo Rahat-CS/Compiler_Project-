@@ -1,0 +1,54 @@
+int main l_paren r_paren
+l_curly
+int a eol
+int a, b, cat eol
+a = 30 + 2**3 eol
+cat = 30 + 2*4 eol
+if l_paren 2 + 3 r_paren
+l_curly
+    int d eol
+r_curly
+else
+l_curly
+    a = 2 + 3 eol
+r_curly
+
+
+for from 4 to 10 step 2
+l_curly
+r_curly
+
+for l_paren a = 2 ; a < 5; a = a + 1 r_paren
+l_curly
+    if l_paren a >= 4 r_paren
+    l_curly
+        if l_paren cat >= 10 r_paren
+        l_curly
+
+        r_curly
+        else if l_paren cat >= 20 r_paren
+        l_curly
+            a =  2 + 3 eol
+        r_curly
+        else
+        l_curly
+            a = a + 1 eol
+        r_curly
+    r_curly
+r_curly
+
+leapyear l_paren 2000 r_paren eol
+
+switch l_paren a r_paren
+l_curly
+    case 1 :
+        int dbl eol
+    break
+
+r_curly
+
+r_curly
+
+func helloWorld l_paren r_paren
+l_curly
+r_curly

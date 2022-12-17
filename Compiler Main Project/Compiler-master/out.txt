@@ -1,0 +1,26 @@
+variable name: a
+variable already declared
+variable name: b
+variable name: cat
+Value of the expression: 38
+Value of the expression: 38
+variable name: d
+Value of the expression: 5
+If else found
+Loop runs 3 times
+Value of the expression: 5
+
+Else if ladder found
+Simple if found
+For loop found
+For loop detected
+Leap Year declaration 
+2000 is a Leap Year
+
+variable name: dbl
+Switch id has value: 6
+Switch case block detected
+Function declared : helloWorld
+
+
+Compilation Successful
