@@ -1,0 +1,126 @@
+~include<...>
+main()
+{
+    ~~Variable Declaration
+    float a,b,c,d,e,i,j,m;
+	float f;
+	read f;
+	write(f);
+	
+	a = 10;
+	b = 4;
+	c = 3;
+	d = a;
+	m = 4;
+	p = 3;
+    b^c;
+	e = b*f ;
+	e = a+e;
+	e = e-c;
+	f = (a^c )/e;
+	sqr(e);
+	cube(a);
+	sqrt(e);
+	fact(a);
+	sin(e);
+	cos(f);
+	tan(f);
+	ln(e);
+	int y;
+	read y;
+	leap_year(y);
+	prime(b);
+	prime(c);
+	divisors(d);
+	summation(d);
+	even_odd(y);
+	if 3 lt 2
+    {
+	    3+2;
+    }
+	
+    if 3 gt 4
+    {
+        5*5;
+    }
+    else
+    {
+	    7^5;
+    }
+	
+	if 8 ne 9
+	{   
+	    if 4 lt 6
+	    { 
+		    fact(8);
+		}
+		else
+		{
+		    7;
+		}
+	}
+	else
+	{ 
+	    if 4 lt 4
+	    { 
+		    6*7;
+	    }   
+	}
+	
+	if  2 gt 2
+	{  
+	    if 4 ge 5
+	    { 
+		    6*7;
+	    }
+		else
+		{
+		   2;
+		}
+	}
+	else
+	{ 
+	    if 4 ne 4
+	    { 
+		    sqr(8);
+		}
+		else
+		{
+		    8;
+		}
+	}
+	
+	switch (d)
+    {
+	    case 1: 
+	        10*5; 
+        default:
+	        d;
+    }
+	switch (c)
+	{
+	    case 1:
+		    (10/2);
+	    case 2:
+		    cube(5);
+		case 3:
+		    sqrt(10000);
+		default:
+		    sqr(12);
+	}
+	for i in range(10,3,3):
+        (1*5)-(7/2);
+    
+	for j in range(10,5,1):
+        ((1*5)+(7/2));
+		
+	while j le 7:
+        7;
+	while m ge 2:
+        tan(120);
+		
+    @
+	  Multiline Comment Section
+	  Multiline Comment Section
+	@	
+}

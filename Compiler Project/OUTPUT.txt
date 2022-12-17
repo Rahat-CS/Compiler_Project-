@@ -1,0 +1,59 @@
+This is a header file
+Single Line Comment
+Variable declared
+Variable declared
+Value taken from user for f
+Value of f is 1.30
+a assigned 10.00
+b assigned 4.00
+c assigned 3.00
+d assigned 10.00
+m assigned 4.00
+p not declared
+Value of expression : 64.00
+e assigned 5.20
+e assigned 15.20
+e assigned 12.20
+f assigned 81.97
+Value of expression : 148.84
+Value of expression : 1000.00
+Value of expression : 3.49
+Value of expression : 3628800.00
+Value of expression : 0.21
+Value of expression : 0.14
+Value of expression : 7.09
+Value of expression : 2.50
+Variable declared
+Value taken from user for y
+2019 not leap year
+No! 4 not prime
+Yes! 3 prime
+All the divisors of 10 are -> 1 2 5 10 
+Summation of 1st 10 numbers is 55
+2019 Odd Number
+Condition false
+Value of Expression in Valid Condition: 16807.00
+Value of Expression in Valid Condition: 40320.00
+Value of Expression in Valid Condition: 8.00
+Single case switch statement found!
+Multiple case switch statement found!
+For loop Found
+Value in for loop: 1.50
+Value in for loop: 1.50
+Value in for loop: 1.50
+For loop Found
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+While loop found & it works properly!
+Value in while loop: 7.00
+Value in while loop: 7.00
+Value in while loop: 7.00
+While loop found & it works properly!
+Value in while loop: -1.73
+Value in while loop: -1.73
+Value in while loop: -1.73
+Multiline Comment
+Execution Done!
